@@ -18,7 +18,7 @@ The Book Recommender System aims to provide personalized book recommendations to
 
 To use the Book Recommender System, follow these steps:
 
-1. Clone this repository to your local machine using `git clone <repository-url>`
+1. Clone this repository to your local machine using `git clone azimAVI/Book-Recommendation-System`
 
 2. Install the required dependencies listed in the `requirements.txt` file.
 
@@ -38,3 +38,7 @@ Contributions to this project are welcome. If you encounter any issues or have s
 - Collaborative filtering techniques were implemented using [Surprise](https://surprise.readthedocs.io/), a Python scikit for building and analyzing recommender systems.
 
 Feel free to explore the project and provide feedback. Happy reading and book recommendations!
+
+## Contact
+
+For any questions or inquiries, please reach out to [me](https://www.linkedin.com/in/aayushverma2002/)
